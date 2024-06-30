@@ -56,7 +56,7 @@ npm start
 ```
 Open your browser and navigate to http://localhost:3000 to see the application in action.
 
-Usage
+**Usage**
 Add Task: Enter a task in the input field and click the "+" button.
 Edit Task: Click the pencil icon next to a task, modify the text, and click the check icon to save changes.
 Delete Task: Check the checkbox next to a task to delete it.
